@@ -5,7 +5,7 @@
 .grid {
 	width: 200px;
 	height: 400px;
-	background-color: yellow;
+	background-color: #fff36e;
 	display: flex;
 	flex-wrap: wrap;
 }
@@ -24,7 +24,7 @@
 	height: 80px;
 	display: flex;
 	flex-wrap: wrap;
-	background-color: #bada55;
+	background-color: #fff36e;
 	margin-left: 50px;
 }
 
